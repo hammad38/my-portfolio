@@ -348,7 +348,7 @@ main#home h1 {
     transform: translate3d(100%, 0, 0);
   }
   .menu-branding .portrait {
-    background: url("../img/portrait_small.jpg");
+    /* background: url("../img/portrait_small.jpg"); */
     width: 150px;
     height: 150px;
   }
