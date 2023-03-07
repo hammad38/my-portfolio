@@ -274,6 +274,12 @@ main#home h1 {
   color: #000;
 }
 
+@media screen and (max-width: 769px) and (max-width: 1170px) {
+  .boxes div {
+    font-size: 1.2rem;
+  }
+}
+
 .btn,
 .btn-dark,
 .btn-light {
